@@ -7,7 +7,7 @@ import Context from './Context'
 import { App } from './App'
 
 const client = new ApolloClient({
-  uri: 'https://petgram-server.midudev.now.sh/graphql'
+  uri: 'https://petgram-server-jonathan-m93ekzm6p.now.sh/graphql'
 })
 
 ReactDOM.render(
